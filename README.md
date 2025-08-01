@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Hüseyin Atılgan
 
-I'm not a traditional programmer, but I build projects with the powerful assistance of **Cursor IDE** and its AI capabilities. While I may not have a formal coding background, AI has helped me turn ideas into working solutions with impressive speed.
+I'm a project manager, not a traditional programmer, but I build projects with the assistance of **Cursor IDE** and its AI capabilities. While I may not have a formal coding background, AI has helped me turn ideas into working solutions with impressive speed.
 
 ## 🚀 Who Am I?
 - 🧑‍💻 **Digital Project Manager** with a focus on leveraging AI tools to create effective projects.
